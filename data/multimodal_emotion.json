@@ -1,0 +1,109 @@
+{
+  "title": "Survey on Multimodal Emotion Data Visualization",
+  "entries": [
+    {
+      "title": "Multimodal Emotion Recognition: A Comprehensive Review, Trends, and Challenges",
+      "authors": "Ramaswamy, M.P.A. and Palaniswamy, S.",
+      "year": 2024,
+      "tags": [
+        "Survey",
+        "Multimodal",
+        "EEG",
+        "GSR",
+        "Fusion"
+      ]
+    },
+    {
+      "title": "Emotion Recognition Based on Multi-modal Physiological Signals and Transfer Learning",
+      "authors": "Fu, Z.; Zhang, B.; He, X.; et al.",
+      "year": 2022,
+      "tags": [
+        "EEG",
+        "PPG",
+        "GSR",
+        "Transfer Learning"
+      ]
+    },
+    {
+      "title": "M\u00b2Lens: Visualizing and Explaining Multimodal Models for Sentiment Analysis",
+      "authors": "Wang, X.; Zhang, Y.; Shi, L.; et al.",
+      "year": 2022,
+      "tags": [
+        "Visualization",
+        "Explainable AI",
+        "Multimodal"
+      ]
+    },
+    {
+      "title": "Affective Visualization Design: Leveraging the Emotional Impact of Data",
+      "authors": "Lan, X.; Wu, Y.; Cao, N.",
+      "year": 2023,
+      "tags": [
+        "Visualization",
+        "Design",
+        "Emotion Encoding"
+      ]
+    },
+    {
+      "title": "Affective State Analysis During Online Learning Based on Learning Behavior Data",
+      "authors": "Wang, Y.",
+      "year": 2023,
+      "tags": [
+        "Education",
+        "Behavioral Data",
+        "Engagement"
+      ]
+    },
+    {
+      "title": "Emotion Recognition from Multiple Modalities: Fundamentals and Methodologies",
+      "authors": "Zhao, S.; Jia, G.; Yang, J.; et al.",
+      "year": 2021,
+      "tags": [
+        "Multimodal",
+        "Survey",
+        "Fusion"
+      ]
+    },
+    {
+      "title": "A Survey on Physiological Signal-Based Emotion Recognition",
+      "authors": "Al-Saadi, M. et al.",
+      "year": 2022,
+      "tags": [
+        "Physiological Signals",
+        "EEG",
+        "ECG",
+        "EDA"
+      ]
+    },
+    {
+      "title": "Visualizing Sentiment Analysis in Twitter Data for Public Events",
+      "authors": "Prabowo, R.; Thelwall, M.",
+      "year": 2020,
+      "tags": [
+        "Sentiment Analysis",
+        "Visualization",
+        "Social Media"
+      ]
+    },
+    {
+      "title": "Face2Emotion: Real-time Facial Emotion Recognition using Deep Learning",
+      "authors": "Selvi, S.; George, A.; et al.",
+      "year": 2023,
+      "tags": [
+        "Facial Recognition",
+        "Deep Learning",
+        "Realtime"
+      ]
+    },
+    {
+      "title": "Movie Emotion Map: An Interactive Tool for Exploring Movies by Emotional Signature",
+      "authors": "Aguilera, J.; Kalateh, A.; et al.",
+      "year": 2023,
+      "tags": [
+        "Emotion Map",
+        "Visualization",
+        "Recommendation"
+      ]
+    }
+  ]
+}
